@@ -108,27 +108,14 @@
 
 ## GitHub Metrics
 
-<table border="0" align="center" width="860">
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<div align="center">
-
-## GitHub Metrics
-
-<table border="0" align="center" width="860">
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<!-- Borderless / Boxless Stats -->
+<!-- Borderless / Boxless GitHub Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0284c7&text_color=334155&icon_color=0284c7">
   <img src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6" height="195" alt="GitHub Stats">
 </picture>
 
-</td>
-<td width="50%" align="center" valign="middle">
+<br><br>
 
 <!-- Borderless / Boxless Most Used Languages -->
 <picture>
@@ -136,6 +123,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0284c7&text_color=334155&langs_count=6">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&langs_count=6" height="195" alt="Top Languages">
 </picture>
+
+
 
 </td>
 </tr>
