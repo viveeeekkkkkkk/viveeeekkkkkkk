@@ -109,41 +109,39 @@
 
 <br>
 
-<!-- GITHUB STATS: ENCLOSED IN CARD BOX (Theme-Synchronized) -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&theme=tokyonight&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&theme=default&hide_border=false&border_color=cbd5e1&border_radius=14&bg_color=ffffff&title_color=0284c7&text_color=334155&icon_color=0284c7"
-  >
+<!-- GITHUB STATS: ENCLOSED IN CARD BOX -->
+<p align="center">
+  <!-- Dark Mode (In Box) -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&theme=tokyonight&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6"
+    src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&theme=tokyonight&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6#gh-dark-mode-only"
     width="495"
     alt="GitHub Statistics"
-  >
-</picture>
-
-<br><br>
-
-<!-- MOST USED LANGUAGES: BOXLESS & BORDERLESS (Theme-Synchronized) -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=829ab1"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=334155"
-  >
+  />
+  <!-- Light Mode (In Box) -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=829ab1"
+    src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&theme=default&hide_border=false&border_color=cbd5e1&border_radius=14&bg_color=ffffff&title_color=0284c7&text_color=334155&icon_color=0284c7#gh-light-mode-only"
+    width="495"
+    alt="GitHub Statistics"
+  />
+</p>
+
+<br>
+
+<!-- MOST USED LANGUAGES: BOXLESS & BORDERLESS -->
+<p align="center">
+  <!-- Dark Mode (Boxless) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=829ab1#gh-dark-mode-only"
     width="450"
     alt="Most Used Languages"
-  >
-</picture>
+  />
+  <!-- Light Mode (Boxless) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=334155#gh-light-mode-only"
+    width="450"
+    alt="Most Used Languages"
+  />
+</p>
 
 </div>
 
