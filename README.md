@@ -136,33 +136,7 @@
 
 <br>
 
-<!-- MOST USED LANGUAGES — BORDERLESS & TRANSPARENT -->
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&border_radius=0&bg_color=00000000&title_color=38BDF8&text_color=829AB1"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&border_radius=0&bg_color=00000000&title_color=0284C7&text_color=334155"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&border_radius=0&bg_color=00000000&title_color=38BDF8&text_color=829AB1"
-    width="450"
-    alt="Most Used Languages"
-  >
-</picture>
-
-<br><br>
-
-</div>
-
----
-
-</a>
-
-<br><br>
 
 <!-- MOST USED LANGUAGES -->
 
