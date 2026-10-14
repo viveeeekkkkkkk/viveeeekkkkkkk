@@ -9,7 +9,7 @@
 
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://github.com/viveeeekkkkkkk">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=880&lines=Vivek+Sharma+-+CSE+Pre-Final+Year;Building+%26+Deploying+Full-Stack+Apps;C+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+MERN+%C2%B7+Python" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=880&lines=Vivek+Sharma+-+CSE+Pre-Final+Year;Building+%26+Deploying+Full-Stack+Apps;C+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+Python+%C2%B7+Web+Dev" alt="typing banner">
 </a>
 
 <br>
