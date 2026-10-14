@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- BANNER - Terminal Profile Card -->
+<!-- BANNER - Terminal Profile Card (Animated Vector SVG) -->
 <p align="center">
-  <img src="assets/terminal-card.gif" width="860" alt="Vivek Sharma -- Terminal Card">
+  <img src="assets/terminal-card.svg" width="860" alt="Vivek Sharma -- Terminal Card">
 </p>
 
 <br>
