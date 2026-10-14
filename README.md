@@ -116,19 +116,19 @@
 
 <br>
 
-<!-- GITHUB STATISTICS -->
+<!-- GITHUB STATISTICS: TRANSPARENT, BORDERLESS, THEME-SYNCHRONIZED -->
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&icon_color=3B82F6"
+    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&hide_rank=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&icon_color=3B82F6&border_radius=0"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155&icon_color=0284C7"
+    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155&icon_color=0284C7&border_radius=0"
   >
   <img
-    src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&icon_color=3B82F6"
+    src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&hide_rank=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&icon_color=3B82F6&border_radius=0"
     width="495"
     alt="GitHub Statistics"
   >
@@ -136,46 +136,23 @@
 
 <br><br>
 
-<!-- ONLY ONE MOST USED LANGUAGES CARD -->
+<!-- MOST USED LANGUAGES: ONLY ONE CARD, TRANSPARENT AND BORDERLESS -->
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&border_radius=0"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155&border_radius=0"
   >
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&border_radius=0"
     width="450"
     alt="Most Used Languages"
   >
 </picture>
-<br>
-
-
-
-<!-- MOST USED LANGUAGES -->
-
-<a href="https://github.com/viveeeekkkkkkk">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&card_width=400&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&card_width=400&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=57606A"
-    >
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&card_width=400&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
-      width="400"
-      alt="Most used programming languages"
-    >
-  </picture>
 
 
 
