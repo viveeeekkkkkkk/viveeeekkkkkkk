@@ -37,7 +37,7 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,nodejs,mongodb,mysql,vercel,render,streamlit,git,github,vscode&perline=8" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,nodejs,mongodb,mysql,vercel,git,github,vscode&perline=7" alt="tech stack">
 
 </div>
 
