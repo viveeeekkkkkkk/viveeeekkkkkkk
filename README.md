@@ -108,20 +108,20 @@
 
 ## GitHub Metrics
 
-<!-- Borderless / Boxless GitHub Stats -->
+<!-- AT A GLANCE TOP CARD -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0284c7&text_color=334155&icon_color=0284c7">
-  <img src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6" height="195" alt="GitHub Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=false&hide=stars&theme=tokyonight&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=a855f7&text_color=94a3b8&custom_title=viveeeekkkkkkk%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20at%20a%20glance&hide_rank=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=false&hide=stars&theme=default&hide_border=false&border_color=cbd5e1&border_radius=14&bg_color=ffffff&title_color=7c3aed&text_color=475569&custom_title=viveeeekkkkkkk%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20at%20a%20glance&hide_rank=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=false&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=a855f7&text_color=94a3b8" width="540" alt="at a glance">
 </picture>
 
 <br><br>
 
-<!-- Borderless / Boxless Most Used Languages -->
+<!-- COMPACT MULTI-COLUMN MOST USED LANGUAGES WITH FULL METRICS -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&langs_count=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0284c7&text_color=334155&langs_count=6">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&langs_count=6" height="195" alt="Top Languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&langs_count=8&hide_title=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0284c7&text_color=334155&langs_count=8&hide_title=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="540" alt="Most used languages">
 </picture>
 
 
