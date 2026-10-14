@@ -53,7 +53,7 @@
 
 <div align="center">
 
-## Tech Stack
+## My Perfect Stack
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,nodejs,mongodb,mysql,vercel,git,github,vscode&perline=7" alt="tech stack" />
