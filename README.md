@@ -108,23 +108,59 @@
 
 <div align="center">
 
-## Numbers matter? ohhh yes.
+<!-- ═══════════════════ GITHUB STATISTICS ═══════════════════ -->
 
-<!-- TOP STATS: Enclosed in Card Box (Theme-Synchronized) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=default&hide_border=false&border_color=cbd5e1&border_radius=14&bg_color=f8fafc&title_color=0284c7&text_color=334155&icon_color=0284c7">
-  <img src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6" width="495" alt="Vivek Sharma GitHub Stats">
-</picture>
+<div align="center">
+
+<h2>Numbers matter? ohhh yes.</h2>
+
+<hr>
+
+<br>
+
+<!-- GITHUB STATISTICS CARD -->
+
+<a href="https://github.com/viveeeekkkkkkk">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=false&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=8B9DFF&text_color=F0F6FC&icon_color=8B9DFF"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=false&border_color=D1D9E0&border_radius=12&bg_color=FFFFFF&title_color=6C63FF&text_color=24292F&icon_color=6C63FF"
+    >
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=false&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=8B9DFF&text_color=F0F6FC&icon_color=8B9DFF"
+      width="400"
+      alt="GitHub statistics"
+    >
+  </picture>
+
+</a>
 
 <br><br>
 
-<!-- MOST USED LANGUAGES: Boxless & Transparent (Theme-Synchronized) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&langs_count=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0284c7&text_color=334155&langs_count=6">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&langs_count=6" width="450" alt="Most Used Languages">
-</picture>
+<!-- MOST USED LANGUAGES -->
+
+<a href="https://github.com/viveeeekkkkkkk">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&card_width=400&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&card_width=400&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=57606A"
+    >
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&card_width=400&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
+      width="400"
+      alt="Most used programming languages"
+    >
+  </picture>
 
 
 
