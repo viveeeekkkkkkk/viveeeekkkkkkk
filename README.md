@@ -92,8 +92,7 @@
 <!-- Radar 2: Language Stack Radar (Dark/Light Synchronized) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Java%27%2C%27C%2B%2B%27%2C%27C%27%2C%27JavaScript%27%2C%27Python%27%2C%27SQL%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Language%20Stack%27%2Cdata%3A%5B90%2C85%2C82%2C84%2C80%2C83%5D%2CbackgroundColor%3A%27rgba(52%2C211%2C153%2C0.25)%27%2CborderColor%3A%27rgba(52%2C211%2C153%2C1)%27%2CpointBackgroundColor%3A%27%2334d399%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Language%20Stack%27%2CfontColor%3A%27%2334d399%27%2CfontSize%3A15%7D%2Cscale%3A%7Bticks%3A%7Bdisplay%3Afalse%2CbeginAtZero%3Atrue%2Cmax%3A100%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.12)%27%7D%2CpointLabels%3A%7BfontColor%3A%27%2394a3b8%27%2CfontSize%3A11%7D%7D%7D%7D&w=380&h=320&bkg=transparent">
-  <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Java%27%2C%27C%2B%2B%27%2C%27C%27%2C%27JavaScript%27%2C%27Python%27%2C%27SQL%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Language%20Stack%27%2Cdata%3A%5B90%2C85%2C82%2C84%2C80%2C83%5D%2CbackgroundColor%3A%27rgba(16%2C185%2C129%2C0.2)%27%2CborderColor%3A%27rgba(16%2C185%2C129%2C1)%27%2CpointBackgroundColor%3A%27%23059669%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Language%20Stack%27%2CfontColor%3A%27%23059669%27%2CfontSize%3A15%7D%2Cscale%3A%7Bticks%3A%7Bdisplay%3Afalse%2CbeginAtZero%3Atrue%2Cmax%3A100%7D%2CgridLines%3A%7Bcolor%3A%27rgba(0%2C0%2C0%2C0.1)%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23334155%27%2CfontSize%3A11%7D%7D%7D%7D&w=380&h=320&bkg=transparent">
-  <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Java%27%2C%27C%2B%2B%27%2C%27C%27%2C%27JavaScript%27%2C%27Python%27%2C%27SQL%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Language%20Stack%27%2Cdata%3A%5B90%2C85%2C82%2C84%2C80%2C83%5D%2CbackgroundColor%3A%27rgba(52%2C211%2C153%2C0.25)%27%2CborderColor%3A%27rgba(52%2C211%2C153%2C1)%27%2CpointBackgroundColor%3A%27%2334d399%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Language%20Stack%27%2CfontColor%3A%27%2334d399%27%2CfontSize%3A15%7D%2Cscale%3A%7Bticks%3A%7Bdisplay%3Afalse%2CbeginAtZero%3Atrue%2Cmax%3A100%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.12)%27%7D%2CpointLabels%3A%7BfontColor%3A%27%2394a3b8%27%2CfontSize%3A11%7D%7D%7D%7D&w=380&h=320&bkg=transparent" width="370" alt="Language Stack Radar">
+  <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Java%27%2C%27C%2B%2B%27%2C%27C%27%2C%27JavaScript%27%2C%27Python%27%2C%27SQL%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Language%20Stack%27%2Cdata%3A%5B90%2C85%2C82%2C84%2C80%2C83%5D%2CbackgroundColor%3A%27rgba(16%2C185%2C129%2C0.2)%27%2CborderColor%3A%27rgba(16%2C185%2C129%2C1)%27%2CpointBackgroundColor%3A%27%23059669%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Language%20Stack%27%2CfontColor%3A%27%23059669%27%2CfontSize%3A15%7D%2Cscale%3A%7Bticks%3A%7Bdisplay%3Afalse%2CbeginAtZero%3Atrue%2Cmax%3A100%7D%2CgridLines%3A%7Bcolor%3A%27rgba(0%2C0%2C0%2C0.1)%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23334155%27%2CfontSize%3A11%7D%7D%7D%7D&w=380&h=320&bkg=transparent" width="370" alt="Language Stack Radar">
 </picture>
 
 </td>
@@ -103,12 +102,6 @@
 </div>
 
 ---
-
----
-
-<div align="center">
-
-<!-- ═══════════════════ GITHUB STATISTICS ═══════════════════ -->
 
 <div align="center">
 
@@ -116,19 +109,18 @@
 
 <br>
 
-<!-- GITHUB STATISTICS: TRANSPARENT, BORDERLESS, THEME-SYNCHRONIZED -->
-
+<!-- GITHUB STATS: ENCLOSED IN CARD BOX (Theme-Synchronized) -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&hide_rank=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&icon_color=3B82F6&border_radius=0"
+    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&theme=tokyonight&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155&icon_color=0284C7&border_radius=0"
+    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&theme=default&hide_border=false&border_color=cbd5e1&border_radius=14&bg_color=ffffff&title_color=0284c7&text_color=334155&icon_color=0284c7"
   >
   <img
-    src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&hide_rank=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&icon_color=3B82F6&border_radius=0"
+    src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues,contribs&theme=tokyonight&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6"
     width="495"
     alt="GitHub Statistics"
   >
@@ -136,34 +128,25 @@
 
 <br><br>
 
-<!-- MOST USED LANGUAGES: ONLY ONE CARD, TRANSPARENT AND BORDERLESS -->
-
+<!-- MOST USED LANGUAGES: BOXLESS & BORDERLESS (Theme-Synchronized) -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&border_radius=0"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=829ab1"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155&border_radius=0"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=334155"
   >
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&border_radius=0"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=829ab1"
     width="450"
     alt="Most Used Languages"
   >
 </picture>
 
-
-
-
-
-
-</td>
-</tr>
-</table>
-
 </div>
+
 ---
 
 <div align="center">
