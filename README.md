@@ -108,21 +108,30 @@
 
 ## GitHub Metrics
 
-<!-- Auto Light / Dark theme stats card -->
+<table border="0" align="center" width="860">
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<!-- GitHub Stats Card -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=default&hide_border=true&bg_color=f8fafc&title_color=0284c7&text_color=334155&icon_color=0284c7">
-  <img src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=false&border_color=142845&border_radius=10&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=default&hide_border=false&border_color=cbd5e1&border_radius=10&bg_color=f8fafc&title_color=0284c7&text_color=334155&icon_color=0284c7">
+  <img src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=false&border_color=142845&border_radius=10&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6" height="195" alt="GitHub Stats">
 </picture>
 
-<br>
+</td>
+<td width="50%" align="center" valign="middle">
 
-<!-- Auto Light / Dark theme top languages card -->
+<!-- Top Languages Card -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=38bdf8&text_color=829ab1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=default&hide_border=true&bg_color=f8fafc&title_color=0284c7&text_color=334155">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight" alt="Top Languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=false&border_color=142845&border_radius=10&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&langs_count=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=default&hide_border=false&border_color=cbd5e1&border_radius=10&bg_color=f8fafc&title_color=0284c7&text_color=334155&langs_count=6">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=false&border_color=142845&border_radius=10&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&langs_count=6" height="195" alt="Top Languages">
 </picture>
+
+</td>
+</tr>
+</table>
 
 </div>
 
