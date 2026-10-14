@@ -16,8 +16,8 @@
 
 <!-- SOCIAL BADGES -->
 <a href="https://github.com/viveeeekkkkkkk"><img src="https://img.shields.io/badge/GitHub-060d1a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-060d1a?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email"></a>
+<a href="https://www.linkedin.com/in/viveksharma262005" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="mailto:codes.viveksharma@gmail.com"><img src="https://img.shields.io/badge/Email-060d1a?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email"></a>
 
 </div>
 
@@ -38,6 +38,12 @@
 ## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,nodejs,mongodb,mysql,vercel,git,github,vscode&perline=7" alt="tech stack">
+
+<br><br>
+
+<!-- Deployment & Framework Badges -->
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" />&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 
 </div>
 
