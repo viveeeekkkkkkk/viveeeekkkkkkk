@@ -55,12 +55,9 @@
 
 ## Tech Stack
 
-<!-- Auto Dark/Light theme skill icons (7 per line) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,nodejs,mongodb,mysql,vercel,git,github,vscode&theme=dark&perline=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,nodejs,mongodb,mysql,vercel,git,github,vscode&theme=light&perline=7">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,nodejs,mongodb,mysql,vercel,git,github,vscode&perline=7" alt="tech stack">
-</picture>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,nodejs,mongodb,mysql,vercel,git,github,vscode&perline=7" alt="tech stack" />
+</a>
 
 <br><br>
 
