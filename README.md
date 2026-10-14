@@ -108,85 +108,36 @@
 
 <div align="center">
 
-<!-- ═══════════════════ GITHUB STATISTICS ═══════════════════ -->
+## Numbers matter? ohhh yes.
 
-<div align="center">
-
-<h2>Numbers matter? ohhh yes.</h2>
-
-<p>
-  <sub>A snapshot of my GitHub activity and development stack.</sub>
-</p>
-
-<br>
-
-<!-- GITHUB STATS CARD -->
-
-<a href="https://github.com/viveeeekkkkkkk">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8"
-    >
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide_border=false&border_color=CBD5E1&border_radius=12&bg_color=FFFFFF&title_color=0284C7&text_color=334155&icon_color=0284C7"
-    >
-
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8"
-      width="495"
-      alt="Vivek Sharma's GitHub statistics"
-    >
-
-  </picture>
-
-</a>
+<!-- TOP STATS: Enclosed in Card Box (Theme-Synchronized) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=default&hide_border=false&border_color=cbd5e1&border_radius=14&bg_color=f8fafc&title_color=0284c7&text_color=334155&icon_color=0284c7">
+  <img src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&theme=tokyonight&hide_border=false&border_color=142845&border_radius=14&bg_color=060d1a&title_color=38bdf8&text_color=829ab1&icon_color=3b82f6" width="495" alt="Vivek Sharma GitHub Stats">
+</picture>
 
 <br><br>
 
-<!-- MOST USED LANGUAGES CARD -->
+<!-- MOST USED LANGUAGES: Boxless & Transparent (Theme-Synchronized) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&langs_count=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0284c7&text_color=334155&langs_count=6">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=829ab1&langs_count=6" width="450" alt="Most Used Languages">
+</picture>
 
-<a href="https://github.com/viveeeekkkkkkk">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=6&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-    >
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=6&hide_border=false&border_color=CBD5E1&border_radius=12&bg_color=FFFFFF&title_color=0284C7&text_color=334155"
-    >
 
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=6&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-      width="400"
-      alt="Vivek Sharma's most-used programming languages"
-    >
 
-  </picture>
 
-</a>
-
-<br><br>
-
-<!-- PROFILE LINKS -->
-
-<a href="https://github.com/viveeeekkkkkkk?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117"
-    alt="Explore my repositories"
-  >
-</a>
-
-<br><br>
-
-<sub>Consistency over complexity · One commit at a time.</sub>
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
+
+<div align="center">
+  <sub>Built with precision · @viveeeekkkkkkk</sub>
+</div>
