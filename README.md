@@ -41,7 +41,7 @@
 
 ---
 
-## About Me
+## About Me :)
 
 - 🎓 Computer Science and Engineering undergraduate.
 - 💻 Interested in software development and emerging technologies.
