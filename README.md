@@ -101,23 +101,51 @@ I'm a Computer Science and Engineering undergraduate interested in software deve
 
 <div align="center">
 
-## GitHub Statistics
+<!-- ═══════════════════ GITHUB STATISTICS ═══════════════════ -->
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=0284C7&text_color=334155&icon_color=0284C7&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&include_all_commits=true" width="495" alt="GitHub contribution and repository statistics">
-  </picture>
-</p>
+<div align="center">
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=0284C7&text_color=334155&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" width="380" alt="Most used programming languages">
-  </picture>
-</p>
+## Numbers matter? ohhh yes.
+
+<br>
+
+<!-- GITHUB STATS CARD -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=8B9DFF&text_color=F0F0F0&icon_color=8B9DFF"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=6C63FF&text_color=24292F&icon_color=6C63FF"
+  >
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=8B9DFF&text_color=F0F0F0&icon_color=8B9DFF"
+    width="495"
+    alt="GitHub Statistics"
+  >
+</picture>
+
+<br><br>
+
+<!-- MOST USED LANGUAGES CARD -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=8B9DFF&text_color=F0F0F0"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=6C63FF&text_color=24292F"
+  >
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=8B9DFF&text_color=F0F0F0"
+    width="380"
+    alt="Most Used Programming Languages"
+  >
+</picture>
 
 </div>
 
@@ -129,12 +157,43 @@ I'm a Computer Science and Engineering undergraduate interested in software deve
 
 ## Contribution Activity
 
+<br>
+
 <a href="https://github.com/viveeeekkkkkkk">
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=viveeeekkkkkkk&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=viveeeekkkkkkk&bg_color=FFFFFF&color=0284C7&line=0284C7&point=1D4ED8&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveeeekkkkkkk&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=viveeeekkkkkkk&bg_color=0D1117&color=8B9DFF&line=8B9DFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=viveeeekkkkkkk&bg_color=FFFFFF&color=6C63FF&line=6C63FF&point=24292F&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    >
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=viveeeekkkkkkk&bg_color=0D1117&color=8B9DFF&line=8B9DFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
+      width="100%"
+      alt="GitHub Contribution Activity Graph"
+    >
   </picture>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Building, learning, and improving — one project at a time.</sub>
+
+<br><br>
+
+<a href="https://github.com/viveeeekkkkkkk">
+  <img
+    src="https://img.shields.io/badge/Designed%20%26%20Built%20by-Vivek%20Sharma-6C63FF?style=flat-square"
+    alt="Designed and built by Vivek Sharma"
+  >
 </a>
 
 </div>
