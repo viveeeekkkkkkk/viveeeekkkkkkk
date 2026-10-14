@@ -116,24 +116,43 @@
 
 <br>
 
-<!-- GITHUB STATS — BORDERLESS & TRANSPARENT -->
+<!-- GITHUB STATISTICS -->
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=true&border_radius=0&bg_color=00000000&title_color=38BDF8&text_color=829AB1&icon_color=3B82F6"
+    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&icon_color=3B82F6"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=true&border_radius=0&bg_color=00000000&title_color=0284C7&text_color=334155&icon_color=0284C7"
+    srcset="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155&icon_color=0284C7"
   >
   <img
-    src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=true&border_radius=0&bg_color=00000000&title_color=38BDF8&text_color=829AB1&icon_color=3B82F6"
+    src="https://github-readme-stats.vercel.app/api?username=viveeeekkkkkkk&show_icons=true&hide=issues&hide_rank=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1&icon_color=3B82F6"
     width="495"
     alt="GitHub Statistics"
   >
 </picture>
 
+<br><br>
+
+<!-- ONLY ONE MOST USED LANGUAGES CARD -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155"
+  >
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveeeekkkkkkk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=829AB1"
+    width="450"
+    alt="Most Used Languages"
+  >
+</picture>
 <br>
 
 
