@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- BANNER - Terminal Profile Card (Animated Vector SVG) -->
-<p align="center">
-  <img src="assets/terminal-card.svg" width="860" alt="Vivek Sharma -- Terminal Card">
-</p>
+<!-- THEME-SYNCED TERMINAL CARD BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif">
+  <img src="assets/banner-dark.gif" width="860" alt="Vivek Sharma -- Terminal Card">
+</picture>
 
 <br>
 
